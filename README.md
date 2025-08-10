@@ -32,4 +32,4 @@ Data Sources	On-chain APIs, WebSocket feeds, RPC endpoints
 Hosting	VPS or Dockerized environments
 
 ---
-[connect me][https://telegram.com/ShadowRusii]
+[connect me][https://telegram.com/web3_maxim]
